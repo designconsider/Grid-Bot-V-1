@@ -1,5 +1,5 @@
 # Grid-Bot-V-1
-Robo em desenvolvimento para trade na B3, utilizando a pllataforma Meta trade
+Robo em desenvolvimento para trade na B3, utilizando a plataforma Meta trade
 #property copyright "Copyright 2025"
 #property link      "https:
 #property version   "1.02"
